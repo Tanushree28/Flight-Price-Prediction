@@ -1,3 +1,3 @@
 # Flight-Price-Prediction
 
-Heroku Deployment Link : https://predictingflightprice.herokuapp.com/predict
+Heroku Deployed Link : https://predictingflightprice.herokuapp.com/predict
